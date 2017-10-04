@@ -1,0 +1,91 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 511584138,
+        "access": null,
+        "aerialway": null,
+        "aeroway": null,
+        "amenity": null,
+        "area": null,
+        "barrier": null,
+        "bicycle": "yes",
+        "brand": null,
+        "bridge": null,
+        "boundary": null,
+        "building": null,
+        "covered": null,
+        "culvert": null,
+        "cutting": null,
+        "disused": null,
+        "embankment": null,
+        "foot": null,
+        "harbour": null,
+        "highway": "secondary",
+        "historic": null,
+        "horse": null,
+        "junction": null,
+        "landuse": null,
+        "layer": null,
+        "leisure": null,
+        "lock": null,
+        "man_made": null,
+        "military": null,
+        "motorcar": null,
+        "name": "Scotch Line",
+        "natural": null,
+        "oneway": "no",
+        "operator": null,
+        "population": null,
+        "power": null,
+        "place": null,
+        "railway": "path",
+        "ref": "10",
+        "religion": null,
+        "route": null,
+        "service": null,
+        "shop": null,
+        "sport": null,
+        "surface": "asphalt",
+        "toll": null,
+        "tourism": null,
+        "tower:type": null,
+        "tracktype": null,
+        "tunnel": null,
+        "water": null,
+        "waterway": null,
+        "wetland": null,
+        "width": null,
+        "wood": null,
+        "z_order": 36,
+        "way_area": null,
+        "tags": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -76.2535182,
+            44.883976
+          ],
+          [
+            -76.2551164,
+            44.8829824
+          ],
+          [
+            -76.2562556,
+            44.8822714
+          ]
+        ]
+      }
+    }
+  ]
+}

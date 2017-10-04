@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 220076862,
+        "access": "yes",
+        "aerialway": null,
+        "aeroway": null,
+        "amenity": null,
+        "area": null,
+        "barrier": null,
+        "bicycle": "yes",
+        "brand": null,
+        "bridge": null,
+        "boundary": null,
+        "building": null,
+        "covered": null,
+        "culvert": null,
+        "cutting": null,
+        "disused": null,
+        "embankment": null,
+        "foot": "no",
+        "harbour": null,
+        "highway": "cycleway",
+        "historic": null,
+        "horse": null,
+        "junction": null,
+        "landuse": null,
+        "layer": null,
+        "leisure": null,
+        "lock": null,
+        "man_made": null,
+        "military": null,
+        "motorcar": null,
+        "name": null,
+        "natural": null,
+        "oneway": "yes",
+        "operator": null,
+        "population": null,
+        "power": null,
+        "place": null,
+        "railway": null,
+        "ref": null,
+        "religion": null,
+        "route": null,
+        "service": null,
+        "shop": null,
+        "sport": null,
+        "surface": "asphalt",
+        "toll": null,
+        "tourism": null,
+        "tower:type": null,
+        "tracktype": null,
+        "tunnel": null,
+        "water": null,
+        "waterway": null,
+        "wetland": null,
+        "width": "2",
+        "wood": null,
+        "z_order": 10,
+        "way_area": null,
+        "tags": "\"lcn\"=>\"yes\", \"lit\"=>\"yes\", \"segregated\"=>\"yes\", \"motor_vehicle\"=>\"no\""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -75.6826042,
+            45.4114447
+          ],
+          [
+            -75.6824456,
+            45.4112013
+          ],
+          [
+            -75.682364,
+            45.4112128
+          ],
+          [
+            -75.68236,
+            45.4112104
+          ],
+          [
+            -75.6823153,
+            45.4111496
+          ],
+          [
+            -75.6822834,
+            45.4111201
+          ],
+          [
+            -75.6814269,
+            45.4114597
+          ],
+          [
+            -75.6803097,
+            45.4119265
+          ],
+          [
+            -75.6798631,
+            45.4121102
+          ],
+          [
+            -75.6797825,
+            45.4121225
+          ]
+        ]
+      }
+    }
+  ]
+}
